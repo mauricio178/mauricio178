@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Mauricio R. e utilizo o usuário: @mauricio178
 - 👀 Entusiasmo em estudar sobre a tecnologia e desenvolvimento.
-- 🌱 Gosto de aprender, focado em um objetivo de me tornar um Desenvolvedor JS melhor a cada dia.
+- 🌱 Gosto de aprender, focado em um objetivo de me tornar um Desenvolvedor melhor a cada dia.
 - 💞️ Tenho colaborações em pequenos projetos, porém me ajudam a entender melhor a utilização de cada tecnologia.
 - 📫 Me encontre no meu e-mail pessoal, "mauricio.log98@hotmail.com".
