@@ -1,5 +1,3 @@
-- 👋 Olá, meu nome é Mauricio R. e utilizo o usuário: @mauricio178
-- 👀 Entusiasmo em estudar sobre a tecnologia e desenvolvimento.
 - 🌱 Gosto de aprender, focado em um objetivo de me tornar um Desenvolvedor melhor a cada dia.
-- 💞️ Tenho colaborações em pequenos projetos que me ajudam a entender melhor a utilização de cada tecnologia.
+- 💞️ Colaborações em pequenos projetos ajudam a melhor entender melhor a utilização de cada nova ferramenta ou tecnologia.
 - 📫 Me encontre no meu e-mail pessoal, "mauricio.log98@hotmail.com" ou via Linkedin "https://www.linkedin.com/in/mauricio-rodrigues-659352186/".
