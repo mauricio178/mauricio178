@@ -1,3 +1,2 @@
 - 🌱 Tenho gosto em aprender, focando em me tornar um Desenvolvedor melhor a cada dia.
-- 💞️ Colaborações em pequenos projetos ajudam a melhor entender melhor a utilização de cada nova ferramenta ou tecnologia.
 - 📫 Me encontre no meu e-mail pessoal, "mauricio.log98@hotmail.com" ou via Linkedin "https://www.linkedin.com/in/mauricio-rodrigues-659352186/".
