@@ -1,2 +1,2 @@
 - 🌱 Tenho gosto em aprender, focando em me tornar um Desenvolvedor melhor a cada dia.
-- 📫 Me encontre no meu e-mail pessoal, "mauricio.log98@hotmail.com" ou via Linkedin "https://www.linkedin.com/in/mauricio-rodrigues-659352186/".
+- 📫 Me encontre no meu e-mail pessoal, "mauriciodev178@gmail.com" ou via Linkedin "https://www.linkedin.com/in/mauricio-rodrigues-659352186/".
